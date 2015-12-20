@@ -1,0 +1,2858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee520d59-d6ec-4c24-8bcc-be5a68d40429" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="SAA_ROCA.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DbRootNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SAA_ROCA">
+      <favorite_root url="file://$PROJECT_DIR$/ROCAServer/web/WEB-INF/web.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="Html5" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Resul Kavakli &lt;resul.kavakli@gmail.com&gt;" />
+        <option value="rk" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/Validation.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/exception/ResponseException.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/exception/CouchDBException.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/exception/ExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/exception/ContactException.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/ContactValidation.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/content/JSONContent.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/JsonGen.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/InputContent.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/responsehandling/ResponseValidation.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/ResponseGenerator.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/content/HTMLContent.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/models/Contact.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/models/Contacts.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/exception/FilterException.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/database/dataaccess/ContactDAO.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/validation/FormFilter.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/content/InputContent.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/validation/ContentSorter.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/database/dataaccess/CDBContactManagerDAO.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/html/HTMLContent.java" />
+        <option value="$PROJECT_DIR$/CMClient/html/index.html" />
+        <option value="$PROJECT_DIR$/CMClient/html/layout.html" />
+        <option value="$PROJECT_DIR$/CMClient/css/layout-style.css" />
+        <option value="$PROJECT_DIR$/CMClient/html/GroupList.html" />
+        <option value="$PROJECT_DIR$/CMClient/css/style.css" />
+        <option value="$PROJECT_DIR$/CMClient/html/ContactList.html" />
+        <option value="$PROJECT_DIR$/ROCAServer/web/WEB-INF/layout.html" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/util/MyApplication.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/resources/Index.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/content/ContentSorter.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/content/ContentFilter.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/web/style.css" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/content/ContentConverter.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/util/RestClient.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/validation/ResponseValidation.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/web/groups.html" />
+        <option value="$PROJECT_DIR$/ROCAServer/web/contactdetail.html" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/validation/ContactValidation.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/dataaccess/ContactDAO.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/content/ResponseGenerator.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/resources/Contact.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/html/HTMLGen.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/web/script.js" />
+        <option value="$PROJECT_DIR$/ROCAServer/web/contactlist.html" />
+        <option value="$PROJECT_DIR$/ROCAServer/web/favorites.html" />
+        <option value="$PROJECT_DIR$/ROCAServer/web/layout.html" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/dataaccess/CDBContactManagerDAO.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/resources/Favorite.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/content/OutputContent.java" />
+        <option value="$PROJECT_DIR$/ROCAServer/src/logic/content/HtmlOutputContent.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SAA_ROCA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2551724" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Library/commons-io-1.3.2.jar!/" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="100" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="102" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="106" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="900" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="100" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="102" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="106" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="900" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="SearchEverywhereHistoryKey" value=";&#9;FILE&#9;file:///Users/resul/Development/IntelliJIDEA/SAA_ROCA/ROCAServer/src/logic/content/ResponseGenerator.java&#10;todo&#9;ACTION&#9;ActivateTODOToolWindow" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ROCAServer/web" />
+      <recent name="$PROJECT_DIR$/CMClient/html" />
+      <recent name="$PROJECT_DIR$/ROCAServer/web/WEB-INF" />
+      <recent name="$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ROCAServer/web" />
+      <recent name="$PROJECT_DIR$/ROCAServer/src/html" />
+      <recent name="$PROJECT_DIR$/ROCAServer/src/logic/content/html" />
+      <recent name="$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="desc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="desc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/e52d889a638fb3e6829d7e646a00bba7" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="If-Match" />
+                <option name="value" value="2-8f0b82e0baa192c6086cd57743a5cab5" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="desc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/e52d889a638fb3e6829d7e646a00bba7" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="desc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="desc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="desc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/favorites/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Resul&amp;last_name=Kavakli" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/favorites/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Resul&amp;last_name=Kavakli" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/e52d889a638fb3e6829d7e646a00ae7d" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{   &quot;country&quot;: &quot;Germany&quot;,   &quot;address&quot;: &quot;Wiesecker Weg 96&quot;,   &quot;city&quot;: &quot;Giessen&quot;,   &quot;phone2&quot;: &quot;&quot;,   &quot;last_name&quot;: &quot;Caliskan&quot;,   &quot;type&quot;: &quot;contact&quot;,   &quot;phone1&quot;: &quot;0123123&quot;,   &quot;web&quot;: &quot;&quot;,   &quot;company_name&quot;: &quot;NoComp&quot;,   &quot;postal&quot;: &quot;35396&quot;,   &quot;first_name&quot;: &quot;Gamze&quot;,   &quot;email&quot;: &quot;gmzclskn@web.de&quot;, &quot;favorite&quot;:&quot;true&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{   &quot;country&quot;: &quot;Germany&quot;,   &quot;address&quot;: &quot;Wiesecker Weg 96&quot;,   &quot;city&quot;: &quot;Giessen&quot;,   &quot;phone2&quot;: &quot;&quot;,   &quot;last_name&quot;: &quot;Caliskan&quot;,   &quot;type&quot;: &quot;contact&quot;,   &quot;phone1&quot;: &quot;0123123&quot;,   &quot;web&quot;: &quot;&quot;,   &quot;company_name&quot;: &quot;NoComp&quot;,   &quot;postal&quot;: &quot;35396&quot;,   &quot;first_name&quot;: &quot;Gamze&quot;,   &quot;email&quot;: &quot;gmzclskn@web.de&quot;, &quot;favorite&quot;:&quot;true&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/favorites/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{   &quot;country&quot;: &quot;Germany&quot;,   &quot;address&quot;: &quot;Wiesecker Weg 96&quot;,   &quot;city&quot;: &quot;Giessen&quot;,   &quot;phone2&quot;: &quot;&quot;,   &quot;last_name&quot;: &quot;Caliskan&quot;,   &quot;type&quot;: &quot;contact&quot;,   &quot;phone1&quot;: &quot;0123123&quot;,   &quot;web&quot;: &quot;&quot;,   &quot;company_name&quot;: &quot;NoComp&quot;,   &quot;postal&quot;: &quot;35396&quot;,   &quot;first_name&quot;: &quot;Gamze&quot;,   &quot;email&quot;: &quot;gmzclskn@web.de&quot;, &quot;favorite&quot;:&quot;true&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/favorites/e52d889a638fb3e6829d7e646a00b7f5" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{   &quot;country&quot;: &quot;Germany&quot;,   &quot;address&quot;: &quot;Wiesecker Weg 96&quot;,   &quot;city&quot;: &quot;Giessen&quot;,   &quot;phone2&quot;: &quot;&quot;,   &quot;last_name&quot;: &quot;Caliskan&quot;,   &quot;type&quot;: &quot;contact&quot;,   &quot;phone1&quot;: &quot;0123123&quot;,   &quot;web&quot;: &quot;&quot;,   &quot;company_name&quot;: &quot;NoComp&quot;,   &quot;postal&quot;: &quot;35396&quot;,   &quot;first_name&quot;: &quot;Gamze&quot;,   &quot;email&quot;: &quot;gmzclskn@web.de&quot;, &quot;favorite&quot;:&quot;true&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/favorites/e52d889a638fb3e6829d7e646a00b7f5" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{   &quot;country&quot;: &quot;Germany&quot;,   &quot;address&quot;: &quot;Wiesecker Weg 96&quot;,   &quot;city&quot;: &quot;Giessen&quot;,   &quot;phone2&quot;: &quot;&quot;,   &quot;last_name&quot;: &quot;Caliskan&quot;,   &quot;type&quot;: &quot;contact&quot;,   &quot;phone1&quot;: &quot;0123123&quot;,   &quot;web&quot;: &quot;&quot;,   &quot;company_name&quot;: &quot;NoComp&quot;,   &quot;postal&quot;: &quot;35396&quot;,   &quot;first_name&quot;: &quot;Gamze&quot;,   &quot;email&quot;: &quot;gmzclskn@web.de&quot;, &quot;favorite&quot;:&quot;true&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43014bfe" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="If-Match" />
+                <option name="value" value="2-f21f7624e00cd810ce7e7cd3ff6ab7ff" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{   &quot;country&quot;: &quot;Germany&quot;,   &quot;address&quot;: &quot;Wiesecker Weg 96&quot;,   &quot;city&quot;: &quot;Giessen&quot;,   &quot;phone2&quot;: &quot;&quot;,   &quot;last_name&quot;: &quot;Caliskan&quot;,   &quot;type&quot;: &quot;contact&quot;,   &quot;phone1&quot;: &quot;0123123&quot;,   &quot;web&quot;: &quot;&quot;,   &quot;company_name&quot;: &quot;NoComp&quot;,   &quot;postal&quot;: &quot;35396&quot;,   &quot;first_name&quot;: &quot;Gamze&quot;,   &quot;email&quot;: &quot;gmzclskn@web.de&quot;, &quot;favorite&quot;:&quot;true&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="If-Match" />
+                <option name="value" value="12-928186da4d1a9287f18d9f71e13ebd0b" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{   &quot;country&quot;: &quot;Germany&quot;,   &quot;address&quot;: &quot;Wiesecker Weg 96&quot;,   &quot;city&quot;: &quot;Giessen&quot;,   &quot;phone2&quot;: &quot;&quot;,   &quot;last_name&quot;: &quot;Caliskan&quot;,   &quot;type&quot;: &quot;contact&quot;,   &quot;phone1&quot;: &quot;0123123&quot;,   &quot;web&quot;: &quot;&quot;,   &quot;company_name&quot;: &quot;NoComp&quot;,   &quot;postal&quot;: &quot;35396&quot;,   &quot;first_name&quot;: &quot;Gamze&quot;,   &quot;email&quot;: &quot;gmzclskn@web.de&quot;, &quot;favorite&quot;:&quot;true&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="If-Match" />
+                <option name="value" value="12-928186da4d1a9287f18d9f71e13ebd0b" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{   &quot;country&quot;: &quot;Germany&quot;,   &quot;address&quot;: &quot;Wiesecker Weg 96&quot;,   &quot;city&quot;: &quot;Giessen&quot;,   &quot;phone2&quot;: &quot;&quot;,   &quot;last_name&quot;: &quot;Caliskan&quot;,   &quot;type&quot;: &quot;contact&quot;,   &quot;phone1&quot;: &quot;0123123&quot;,   &quot;web&quot;: &quot;&quot;,   &quot;company_name&quot;: &quot;NoComp&quot;,   &quot;postal&quot;: &quot;35396&quot;,   &quot;first_name&quot;: &quot;Gamze&quot;,   &quot;email&quot;: &quot;gmzclskn@web.de&quot;, &quot;favorite&quot;:&quot;true&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{   &quot;country&quot;: &quot;Germany&quot;,   &quot;address&quot;: &quot;Wiesecker Weg 96&quot;,   &quot;city&quot;: &quot;Giessen&quot;,   &quot;phone2&quot;: &quot;&quot;,   &quot;last_name&quot;: &quot;Caliskan&quot;,   &quot;type&quot;: &quot;contact&quot;,   &quot;phone1&quot;: &quot;0123123&quot;,   &quot;web&quot;: &quot;&quot;,   &quot;company_name&quot;: &quot;NoComp&quot;,   &quot;postal&quot;: &quot;35396&quot;,   &quot;first_name&quot;: &quot;Gamze&quot;,   &quot;email&quot;: &quot;gmzclskn@web.de&quot;, &quot;favorite&quot;:&quot;true&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{   &quot;country&quot;: &quot;Germany&quot;,   &quot;address&quot;: &quot;Wiesecker Weg 96&quot;,   &quot;city&quot;: &quot;Giessen&quot;,   &quot;phone2&quot;: &quot;&quot;,   &quot;last_name&quot;: &quot;Caliskan&quot;,   &quot;type&quot;: &quot;contact&quot;,   &quot;phone1&quot;: &quot;0123123&quot;,   &quot;web&quot;: &quot;&quot;,   &quot;company_name&quot;: &quot;NoComp&quot;,   &quot;postal&quot;: &quot;35396&quot;,   &quot;first_name&quot;: &quot;Gamze&quot;,   &quot;email&quot;: &quot;gmzclskn@web.de&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/e52d889a638fb3e6829d7e646a00b000" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;9-cacdc7b6fa0af699b363cfc4daf9389c&quot;,&quot;country&quot;:&quot;Germany&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;9-cacdc7b6fa0af699b363cfc4daf9389c&quot;,&quot;country&quot;:&quot;Germany&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/e52d889a638fb3e6829d7e646a00e3c4" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;9-cacdc7b6fa0af699b363cfc4daf9389c&quot;,&quot;country&quot;:&quot;Germany&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;9-cacdc7b6fa0af699b363cfc4daf9389c&quot;,&quot;country&quot;:&quot;Germany&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="asc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;9-cacdc7b6fa0af699b363cfc4daf9389c&quot;,&quot;country&quot;:&quot;Germany&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="sortby" />
+                <option name="value" value="first_name" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="value" />
+                <option name="value" value="desc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;9-cacdc7b6fa0af699b363cfc4daf9389c&quot;,&quot;country&quot;:&quot;Germany&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;9-cacdc7b6fa0af699b363cfc4daf9389c&quot;,&quot;country&quot;:&quot;Germany&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;9-cacdc7b6fa0af699b363cfc4daf9389c&quot;,&quot;country&quot;:&quot;Germany&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;8-9950b5b8153712cc42e15210a4e95ad4&quot;,&quot;country&quot;:&quot;Turkey&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;7-4675823d89d15d85f673b8c12dba3e3e&quot;,&quot;country&quot;:&quot;Deutschland&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;6-3a3885063423dd09a0d0e3e64ef168ea&quot;,&quot;country&quot;:&quot;Germany&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;5-0ccfdc9fdeff9b61009246f9fb5f88da&quot;,&quot;country&quot;:&quot;Turkey&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;_id&quot;:&quot;6a5674c4a16e8ac7065e478b43012110&quot;,&quot;_rev&quot;:&quot;5-0ccfdc9fdeff9b61009246f9fb5f88da&quot;,&quot;country&quot;:&quot;Turkey&quot;,&quot;address&quot;:&quot;Marburger Str. 84a&quot;,&quot;city&quot;:&quot;Giessen&quot;,&quot;phone2&quot;: &quot;&quot;,&quot;last_name&quot;:&quot;Kavakli&quot;,&quot;type&quot;:&quot;contact&quot;,&quot;phone1&quot;:&quot;015234&quot;,&quot;web&quot;:&quot;&quot;,&quot;company_name&quot;:&quot;BALTICERP&quot;,&quot;postal&quot;:&quot;35396&quot;,&quot;first_name&quot;:&quot;Resul&quot;,&quot;email&quot;:&quot;&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{    &quot;_id&quot;: &quot;6a5674c4a16e8ac7065e478b43012110&quot;,    &quot;_rev&quot;: &quot;5-0ccfdc9fdeff9b61009246f9fb5f88da&quot;,    &quot;country&quot;: &quot;Türkei&quot;,    &quot;address&quot;: &quot;Marburger Str. 84a&quot;,    &quot;city&quot;: &quot;Giessen&quot;,    &quot;phone2&quot;: &quot;&quot;,    &quot;last_name&quot;: &quot;Kavakli&quot;,    &quot;type&quot;: &quot;contact&quot;,    &quot;phone1&quot;: &quot;015234&quot;,    &quot;web&quot;: &quot;&quot;,    &quot;company_name&quot;: &quot;BALTICERP&quot;,    &quot;postal&quot;: &quot;35396&quot;,    &quot;first_name&quot;: &quot;Resul&quot;,    &quot;email&quot;: &quot;&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{    &quot;_id&quot;: &quot;6a5674c4a16e8ac7065e478b43012110&quot;,    &quot;_rev&quot;: &quot;5-0ccfdc9fdeff9b61009246f9fb5f88da&quot;,    &quot;country&quot;: &quot;Deutschland&quot;,    &quot;address&quot;: &quot;Marburger Str. 84a&quot;,    &quot;city&quot;: &quot;Giessen&quot;,    &quot;phone2&quot;: &quot;&quot;,    &quot;last_name&quot;: &quot;Kavakli&quot;,    &quot;type&quot;: &quot;contact&quot;,    &quot;phone1&quot;: &quot;015234&quot;,    &quot;web&quot;: &quot;&quot;,    &quot;company_name&quot;: &quot;BALTICERP&quot;,    &quot;postal&quot;: &quot;35396&quot;,    &quot;first_name&quot;: &quot;Resul&quot;,    &quot;email&quot;: &quot;&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/favorites/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{    &quot;_id&quot;: &quot;6a5674c4a16e8ac7065e478b43012110&quot;,    &quot;_rev&quot;: &quot;5-0ccfdc9fdeff9b61009246f9fb5f88da&quot;,    &quot;country&quot;: &quot;Deutschland&quot;,    &quot;address&quot;: &quot;Marburger Str. 84a&quot;,    &quot;city&quot;: &quot;Giessen&quot;,    &quot;phone2&quot;: &quot;&quot;,    &quot;last_name&quot;: &quot;Kavakli&quot;,    &quot;type&quot;: &quot;contact&quot;,    &quot;phone1&quot;: &quot;015234&quot;,    &quot;web&quot;: &quot;&quot;,    &quot;company_name&quot;: &quot;BALTICERP&quot;,    &quot;postal&quot;: &quot;35396&quot;,    &quot;first_name&quot;: &quot;Resul&quot;,    &quot;email&quot;: &quot;&quot; }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/favorites/6a5674c4a16e8ac7065e478b43012110" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="first_name=Resul&amp;last_name=kvk&amp;company_name=nocomp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=PUT&amp;_id=6a5674c4a16e8ac7065e478b430051f9&amp;_rev=3-ac63c58ea21f779a162b2517c09071ec" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b4300907a" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="If-Match" />
+                <option name="value" value="1-de85002ca7af94be2ffda6052b729fe3" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="first_name=Resul&amp;last_name=kvk&amp;company_name=nocomp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=PUT&amp;_id=6a5674c4a16e8ac7065e478b430051f9&amp;_rev=3-ac63c58ea21f779a162b2517c09071ec" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b43000b67" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="If-Match" />
+                <option name="value" value="1-f29ea4cb7873ffb7869b5a112713ea84" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="first_name=Resul&amp;last_name=kvk&amp;company_name=nocomp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=PUT&amp;_id=6a5674c4a16e8ac7065e478b430051f9&amp;_rev=3-ac63c58ea21f779a162b2517c09071ec" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b430051f9" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="If-Match" />
+                <option name="value" value="8-3b711146f5b25156156a293d3c2d55f5" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="first_name=Resul&amp;last_name=kvk&amp;company_name=nocomp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=PUT&amp;_id=6a5674c4a16e8ac7065e478b430051f9&amp;_rev=3-ac63c58ea21f779a162b2517c09071ec" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b430051f9" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Resul&amp;last_name=kvk&amp;company_name=nocomp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=PUT&amp;_id=6a5674c4a16e8ac7065e478b430051f9&amp;_rev=3-ac63c58ea21f779a162b2517c09071ec" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts/6a5674c4a16e8ac7065e478b430051f9" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Rsl&amp;last_name=kvk&amp;company_name=nocomp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=PUT&amp;_id=6a5674c4a16e8ac7065e478b430051f9&amp;_rev=1-0148b0b7c64241bfeb73da60f06e6baa" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Rsl&amp;last_name=kvk&amp;company_name=nocomp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=PUT&amp;_id=6a5674c4a16e8ac7065e478b430051f9&amp;_rev=1-0148b0b7c64241bfeb73da60f06e6baa" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Rsl&amp;last_name=kvk&amp;company_name=nocomp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=PUT&amp;_id=6a5674c4a16e8ac7065e478b430051f9&amp;_rev=1-0148b0b7c64241bfeb73da60f06e6baa" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Rsl&amp;last_name=kvk&amp;company_name=balticerp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=POST" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Rsl&amp;last_name=kvk&amp;company_name=balticerp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=PUT" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Resul&amp;last_name=Kavakli&amp;company_name=balticerp&amp;address=Marburgerstr&amp;city=Giessen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=POST" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Resul&amp;last_name=Kavakli&amp;company_name=balticerp&amp;address=Marburgerstr&amp;city=Gießen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;_method=POST" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080" />
+          <option name="urlPath" value="/rest/contacts" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept-Type" />
+                <option name="value" value="text/html" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="first_name=Resul&amp;last_name=Kavakli&amp;company_name=balticerp&amp;address=Marburgerstr&amp;city=Gießen&amp;country=Germany&amp;postal=35396&amp;phone1=123123123&amp;phone2=43434453&amp;email=resul.kavakli@gmail.com&amp;web=www.google.de&amp;type=contact&amp;method=POST" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.ROCAServer">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.21" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="BROWSER_ID" value="e5120d43-2c3f-47ef-9f26-65e539e05186" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_SAA_ROCA" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55288" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/aopalliance-repackaged-2.4.0-b10.jar" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ROCAServer" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.21" ALTERNATIVE_JRE_ENABLED="false" ALTERNATIVE_JRE_PATH="">
+      <option name="BROWSER_ID" value="e5120d43-2c3f-47ef-9f26-65e539e05186" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ROCAServer:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_SAA_ROCA" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55288" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ROCAServer:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.ROCAServer" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee520d59-d6ec-4c24-8bcc-be5a68d40429" name="Default" comment="" />
+      <created>1430140779151</created>
+      <option name="number" value="Default" />
+      <updated>1430140779151</updated>
+      <workItem from="1430140783754" duration="2386000" />
+      <workItem from="1430211651539" duration="2058000" />
+      <workItem from="1430240494868" duration="760000" />
+      <workItem from="1430812565841" duration="24050000" />
+      <workItem from="1431379466520" duration="13120000" />
+      <workItem from="1431609123217" duration="2376000" />
+      <workItem from="1432680017072" duration="3707000" />
+      <workItem from="1432913517472" duration="2664000" />
+      <workItem from="1432987121235" duration="42099000" />
+      <workItem from="1433766852252" duration="557000" />
+      <workItem from="1433767788408" duration="41396000" />
+      <workItem from="1434032611125" duration="2354000" />
+      <workItem from="1434035030632" duration="838000" />
+      <workItem from="1434038564249" duration="38086000" />
+      <workItem from="1434447282215" duration="36536000" />
+      <workItem from="1434930438392" duration="631000" />
+      <workItem from="1435092290120" duration="6156000" />
+      <workItem from="1435240971920" duration="129000" />
+      <workItem from="1435351311908" duration="174496000" />
+      <workItem from="1437012041576" duration="2213000" />
+      <workItem from="1437855465433" duration="484000" />
+    </task>
+    <task id="LOCAL-00001" summary="ROCAClient project is created">
+      <created>1430141285646</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1430141285646</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ROCAClient project is created">
+      <created>1431612778049</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1431612778049</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ROCAClient project is created">
+      <created>1431612794482</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1431612794482</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ROCAClient commit 1">
+      <created>1431613079910</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1431613079910</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ROCAServer Backend contains real contact data. &#10;Features: filtering, input validation, response generator, rest client, couchdb read/write, exception handling.">
+      <created>1434300567997</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1434300567997</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Other changes in the project workspace. RESTClient only for test issue.">
+      <created>1434300655671</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1434300655671</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Reference implementation for java's json library.">
+      <created>1434300790095</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1434300790095</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="454246000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6138032" sideWeight="0.65508884" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14054927" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739726" sideWeight="0.49676898" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45342466" sideWeight="0.5387722" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.569863" sideWeight="0.46122777" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23424879" sideWeight="0.52328765" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.59911895" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43424657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34153005" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21647818" sideWeight="0.47671232" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3369863" sideWeight="0.5904685" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="399" y="312" width="481" height="175" />
+      <window_info id="REST Client" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="1.0" sideWeight="0.5621971" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27459016" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32739726" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35753426" sideWeight="0.46688208" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="ROCAClient project is created" />
+    <MESSAGE value="ROCAClient commit 1" />
+    <MESSAGE value="ROCAServer Backend contains real contact data. &#10;Features: filtering, input validation, response generator, rest client, couchdb read/write, exception handling." />
+    <MESSAGE value="Other changes in the project workspace. RESTClient only for test issue." />
+    <MESSAGE value="Reference implementation for java's json library." />
+    <option name="LAST_COMMIT_MESSAGE" value="Reference implementation for java's json library." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ROCAServer/src/resources/Favorite.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ROCAServer/src/resources/Favorite.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="184" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="webTarget" language="JAVA" custom="" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/resources/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#htmlCreate#0;class#Contact#0" expanded="false" />
+            <element signature="method#writeFileJson#0;class#Contact#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Library/javax.json-1.0.4.jar!/javax/json/JsonArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.13333334">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Library/javax.json-1.0.4.jar!/javax/json/JsonReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24444444">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-common.jar!/org/glassfish/jersey/message/internal/TracingLogger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-common.jar!/org/glassfish/jersey/message/internal/OutboundJaxrsResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12444445">
+          <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/logic/content/ContentFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3846154">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMClient/html/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/com/sun/jmx/interceptor/DefaultMBeanServerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17204301">
+          <caret line="818" column="0" selection-start-line="818" selection-start-column="0" selection-end-line="818" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-client.jar!/org/glassfish/jersey/client/ClientResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35267857">
+          <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Library/jsoup/jsoup-1.8.2.jar!/org/jsoup/nodes/Element.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.4444447">
+          <caret line="168" column="0" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="334" column="0" selection-start-line="334" selection-start-column="0" selection-end-line="334" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1657" column="0" selection-start-line="1657" selection-start-column="0" selection-end-line="1657" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="704" column="0" selection-start-line="704" selection-start-column="0" selection-end-line="704" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-server.jar!/org/glassfish/jersey/server/model/internal/JavaResourceMethodDispatcherProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.4074073">
+          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-container-servlet-core.jar!/org/glassfish/jersey/servlet/ServletContainer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-container-servlet-core.jar!/org/glassfish/jersey/servlet/WebComponent.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35067436">
+          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-server.jar!/org/glassfish/jersey/server/ApplicationHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35067436">
+          <caret line="711" column="0" selection-start-line="711" selection-start-column="0" selection-end-line="711" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4124236">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Library/javax.json-1.0.4.jar!/org/glassfish/json/JsonArrayBuilderImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74916387">
+          <caret line="222" column="0" selection-start-line="222" selection-start-column="0" selection-end-line="222" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25052193">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMClient.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/web/up.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-client.jar!/org/glassfish/jersey/client/InboundJaxrsResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="53" column="0" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-common.jar!/org/glassfish/jersey/process/internal/RequestScope.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3322785">
+          <caret line="128" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="128" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-common.jar!/org/glassfish/jersey/internal/Errors.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3322785">
+          <caret line="147" column="0" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-server.jar!/org/glassfish/jersey/server/ServerRuntime.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3322785">
+          <caret line="169" column="0" selection-start-line="169" selection-start-column="0" selection-end-line="169" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-server.jar!/org/glassfish/jersey/server/model/ResourceMethodInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.346519">
+          <caret line="250" column="0" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/web/groups.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1544586">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/logic/validation/ResponseValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-server.jar!/org/glassfish/jersey/server/model/internal/ResourceMethodInvocationHandlerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45762712">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="11.19863">
+          <caret line="496" column="0" selection-start-line="496" selection-start-column="0" selection-end-line="496" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jersey-server.jar!/org/glassfish/jersey/server/model/internal/AbstractJavaResourceMethodDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30890054">
+          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/dataaccess/DAOFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19857433">
+          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/dataaccess/ContactDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7863248">
+          <caret line="74" column="80" selection-start-line="74" selection-start-column="80" selection-end-line="74" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/logic/content/ResponseGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3688889">
+          <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/web/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/web/contactdetail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2168142">
+          <caret line="101" column="28" selection-start-line="101" selection-start-column="28" selection-end-line="101" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/logic/content/ContentSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1923077">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/resources/Index.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/util/RestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/web/contactlist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.022123894">
+          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/resources/Favorite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6837607">
+          <caret line="75" column="5" selection-start-line="69" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/logic/validation/ContactValidation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/web/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="167" column="1" selection-start-line="164" selection-start-column="0" selection-end-line="167" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMClient/html/ContactList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4823009">
+          <caret line="69" column="42" selection-start-line="69" selection-start-column="42" selection-end-line="69" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/html/HTMLGen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5598291">
+          <caret line="80" column="65" selection-start-line="80" selection-start-column="65" selection-end-line="80" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/web/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7522124">
+          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/html/HtmlOutputContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35897437">
+          <caret line="222" column="70" selection-start-line="222" selection-start-column="61" selection-end-line="222" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/logic/content/ContentConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.66239315">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/dataaccess/CDBContactManagerDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.0982907">
+          <caret line="189" column="62" selection-start-line="189" selection-start-column="51" selection-end-line="189" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ROCAServer/src/resources/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54058194">
+          <caret line="280" column="5" selection-start-line="280" selection-start-column="5" selection-end-line="280" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#htmlCreate#0;class#Contact#0" expanded="false" />
+            <element signature="method#writeFileJson#0;class#Contact#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ROCAClient:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (ROCAServer)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-io-1.3.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>CMClient</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>jaxrs-ri-2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

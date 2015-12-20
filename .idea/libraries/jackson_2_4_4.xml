@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="jackson-2.4.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jackson-annotations-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jackson-core-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jackson-databind-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jackson-module-jaxb-annotations-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jackson-jaxrs-json-provider-2.4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jackson-jaxrs-base-2.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jackson-annotations-2.4.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jackson-core-2.4.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ROCAServer/web/WEB-INF/lib/jackson-databind-2.4.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

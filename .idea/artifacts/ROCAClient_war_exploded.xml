@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ROCAClient:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ROCAClient_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ROCAClient/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ROCAClient" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="application" name="javax.json-1.0.4" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

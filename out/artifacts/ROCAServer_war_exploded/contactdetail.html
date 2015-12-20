@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/style.css">
+    <title>ROCA Contact Manager</title>
+</head>
+<body>
+<div id="navbar">
+    <div id="logo"> <a href="/rest/contacts/">ROCA</a></div>
+    <div id="sublogo">Contact Management</div>
+</div>
+
+<div id="main">
+
+    <div id="content-container">
+        <div id="page-state">
+            <h1>Contact Details</h1>
+        </div>
+
+        <div id="main-content">
+
+            <form id="detail" action="/rest/contacts/" method="POST">
+
+                <div id="first_name">
+                    <label>First name</label>
+                    <input name="first_name" type="text" />
+                </div>
+                <div id="last_name">
+                    <label>Last name</label>
+                    <input name="last_name" type="text"/>
+                </div>
+
+                <div id="address">
+                    <label>Address</label>
+                    <input name="address" type="text"/>
+                </div>
+                <div id="postal">
+                    <label>Postal code</label>
+                    <input name="postal" type="text"/>
+                </div>
+                <div id="city">
+                    <label>City</label>
+                    <input name="city" type="text"/>
+                </div>
+                <div id="country">
+                    <label>Country</label>
+                    <input name="country" type="text"/>
+                </div>
+
+                <div id="phone1">
+                    <label>Phone number</label>
+                    <input name="phone1" type="text"/>
+                </div>
+                <div id="phone2">
+                    <label>Phone number (optional)</label>
+                    <input name="phone2" type="text"/>
+                </div>
+                <div id="email">
+                    <label>E-Mail</label>
+                    <input name="email" type="text"/>
+                </div>
+                <div id="web">
+                    <label>Website (optional)</label>
+                    <input name="web" type="text"/>
+                </div>
+                <div id="company_name">
+                    <label>Company (optional)</label>
+                    <input name="company_name" type="text"/>
+                </div>
+
+                <div id="favorite">
+                    <label>Favorite</label>
+                    <input type="checkbox" name="favorite" value="true">
+                </div>
+                <div id="group">
+                    <label>Select a Group</label>
+                    <select name="groups">
+                        <option name="none">none</option>
+                        <option name="ex1">example</option>
+                    </select>
+                </div>
+
+                <div id="type">
+                    <input name="type" value="contact" type="hidden"/>
+                </div>
+                <div id="_id">
+                    <input name="_id" type="hidden"/>
+                </div>
+                <div id="_rev">
+                    <input name="_rev" type="hidden"/>
+                </div>
+                <div id="_method">
+                    <input name="_method" value="PUT" type="hidden"/>
+                </div>
+
+                <input class="button" id="savebutton" type="submit" value="Save"/>
+            </form>
+
+            <form id="delete_button" action="/rest/contacts/" method="POST">
+                <input class="button" id="deletebutton" type="submit" value="Delete"/>
+                <input id="id" type="hidden" name="_id">
+                <input id="rev" type="hidden" name="_rev">
+                <input type="hidden" name="_method" value="DELETE"/>
+            </form>
+
+            <form id="cancel_button" action="/rest/contacts" method="GET">
+                <input class="button" id="cancelbutton" type="submit" value="Cancel">
+            </form>
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

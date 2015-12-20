@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/style.css">
+    <title>ROCA Contact Manager</title>
+</head>
+<body>
+<div id="navbar">
+    <div id="logo"> <a href="/rest/contacts/">ROCA</a></div>
+    <div id="sublogo">Contact Management </div>
+</div>
+
+<div id="main">
+    <div id="action-container">
+        <form class="action-forms" action="/rest/contacts" method="get">
+            <label >Show contact list</label>
+            <input class="button" type="submit" value="contacts">
+        </form>
+        <form class="action-forms" action="rest/groups" method="get">
+            <label>Show favorites </label>
+            <input class="button" type="submit" value="favorites">
+        </form>
+        <form class="action-forms" action="rest/creategroup" method="get">
+            <label>Create new Group</label>
+            <input class="button" type="submit" value="create">
+        </form>
+    </div>
+
+    <div id="content-container">
+        <div id="page-state">
+            <h1>Groups</h1>
+        </div>
+        <div id="main-content">
+
+        </div> <!-- main-content -->
+    </div> <!-- content-container -->
+</div> <!-- main -->
+
+
+</body>
+</html>
